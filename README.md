@@ -2,12 +2,12 @@ Moodify helps you organize your music by mood. Whether you’re feeling happy, s
 It includes two versions:
 
 
-🖥️ GUI Version (main.py)
+🖥️ GUI Version (gui.py)
 
 Desktop app build with Python's tkinter library.
 
 
-🖥️ Console Version (console-version.py)
+🖥️ CLI Version (main.py)
 
 A terminal-based version for users who prefer or require a command-line interface.
 
